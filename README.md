@@ -1,46 +1,36 @@
-# Danial Ramzani
+# Hi, I'm Danial Ramzani
 
 ### Junior Front-End Developer
 
-I build clean, responsive and user-friendly websites with a focus on practical design and solid front-end fundamentals.
+I'm a junior front-end developer focused on building clean, responsive and user-friendly websites.
 
-I'm currently focused on improving my front-end skills through personal and real-world projects, with a particular interest in building modern websites using HTML, CSS and JavaScript.
+## About Me
+
+I work mainly with HTML, CSS and JavaScript and enjoy turning ideas into practical web interfaces. I'm currently improving my front-end skills through personal projects and real-world practice.
 
 ## Skills
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
 - Tailwind CSS
+- Responsive Web Design
 - Git & GitHub
-- PHP
-- MySQL
+- PHP & MySQL
 
 ## Featured Projects
 
-### Car Rental Website
+- **Car Rental Website** — Responsive website built with HTML, CSS and JavaScript.
+- **Personal Blog** — Persian blog built with HTML, CSS, JavaScript, PHP and MySQL.
 
-A responsive car rental website built with HTML, CSS and JavaScript.
+## Currently Learning
 
-**Focus:** Responsive design, layout structure and user experience.
-
-### Personal Blog
-
-A Persian personal blog built with HTML, CSS, JavaScript, PHP and MySQL.
-
-**Focus:** Front-end development, PHP integration and database connectivity.
-
-## Currently Improving
-
-- JavaScript
-- Front-End Development
-- Responsive Web Design
-- Git & GitHub
+- Advanced JavaScript
+- Modern Front-End Development
 - Building real-world web projects
 
 ## Contact
 
-**Email:** ramzanidanial2010@gmail.com
+**Email:** [ramzandianial2010@gmail.com](mailto:ramzandianial2010@gmail.com)
 
 **GitHub:** [github.com/danialramzani](https://github.com/danialramzani)
